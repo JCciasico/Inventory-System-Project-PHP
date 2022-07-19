@@ -36,7 +36,7 @@ header('location:../../index.php');
                 $random = rand(2000,2999);
             ?>
             <form action="Controller/insert-chicken.php" method="POST" enctype="multipart/form-data">
-            <label for="id">ID No.</label>
+            <label for="id">ID No</label>
             <input type="text" id="id" name="id" value="<?php echo $random?>" disabled>
             <input type="hidden" id="id" name="id" value="<?php echo $random?>">
 
