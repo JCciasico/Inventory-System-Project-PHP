@@ -26,7 +26,7 @@
 		<a href="Controller/logout.php">Logout</a>
 	</div>
 	<div class="cont-body">
-		<h2>Bhorgehr Inventory System</h2>
+		<h2>Bhorgehr Inventory Syste</h2>
 		
 		<div class="home-container">
 			<div class="container-box">
