@@ -29,7 +29,7 @@ header('location:../../index.php');
     </div>
     <div class="ctable-body">
         <div class="edit-title">
-            <p>Add New Burger</p>
+            <p>Add New Food</p>
         </div>  
         <div class="form-body">
             <?php
