@@ -66,7 +66,7 @@ header('location:../../index.php');
     </div>
     <div class="ctable-body">
         <div class="edit-title">
-            <p>Edit Food</p>
+            <p>Edit Item</p>
         </div>  
         <div class="form-body">
             <form action="Controller/update-chk.php?id=<?php echo $id?>" method="POST" enctype="multipart/form-data">
