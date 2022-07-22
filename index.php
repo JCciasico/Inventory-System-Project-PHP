@@ -20,7 +20,7 @@
 </head>
 <body>
 	<div class="profile-nav">
-		<h4>Bhorgehr Inventory System</h4>
+		<h4>Bhorgehrs Inventory System</h4>
 	</div>
 	<div class="cont-body">
 		<div class="container" id="container">
